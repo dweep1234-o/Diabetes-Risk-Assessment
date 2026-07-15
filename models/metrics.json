@@ -1,0 +1,15 @@
+{
+  "selected_model": "logistic_regression",
+  "results": {
+    "logistic_regression": {
+      "accuracy": 0.7175,
+      "f1_score": 0.6686217008797654,
+      "roc_auc": 0.7706155632984901
+    },
+    "random_forest": {
+      "accuracy": 0.7025,
+      "f1_score": 0.636085626911315,
+      "roc_auc": 0.7566782810685251
+    }
+  }
+}
